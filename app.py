@@ -1,6 +1,6 @@
 
 
-def instruction();
+def instruction():
     return "result"
 
 if __name__ == "__main__":
